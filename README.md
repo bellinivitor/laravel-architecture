@@ -1013,3 +1013,9 @@ test('admin can store a post via API', function (User $admin) {
 
 })->with('admin')->group('Feature', 'Post');
 ```
+
+## Apoie
+
+Se este projeto te ajudou, você pode me pagar um café ☕
+
+<a href="https://buymeacoffee.com/vitorbellini"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40"></a>
